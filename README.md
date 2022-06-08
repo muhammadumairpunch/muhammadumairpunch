@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadumairpunch
+- 👋 Hi, I’m Muhammad Umair
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Attention
 - 💞️ I’m looking to collaborate on Machine Learning Projects
