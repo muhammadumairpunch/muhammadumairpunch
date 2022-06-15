@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Umair
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Machine Learning | Deep Learning 
 - 🌱 I’m currently learning Attention
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me muhammadumair@punch.cool
